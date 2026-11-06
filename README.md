@@ -3,8 +3,7 @@
 
 A collection of three hands-on machine learning experiments exploring **unsupervised clustering**, the limitations of distance-based algorithms, and **supervised binary classification with PyTorch**.
 
-Developed as part of **SC5002 AI Fundamentals** at Nanyang Technological University (NTU), Singapore.
-AI Acknowledgment: Generative AI tools, including ChatGPT and Claude, were used to assist with coding and debugging for this assignment.
+Developed as part of **SC5002 AI Fundamentals** at Nanyang Technological University (NTU), Singapore. Generative AI tools, including ChatGPT and Claude, were used to assist with coding and debugging for this assignment.
 
 ## Project overview
 
